@@ -9,7 +9,13 @@
 				"D:/RaceGamePrototype/RaceGamePrototype/RaceGamePrototype/Content/RaceGame/CheckPoints/BP_Checkpoint.uasset",
 				"D:/RaceGamePrototype/RaceGamePrototype/RaceGamePrototype/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/4/PD/WJNY12FLQEQOCR6UMK7NLM.uasset",
 				"D:/RaceGamePrototype/RaceGamePrototype/RaceGamePrototype/Content/VehicleTemplate/Maps/VehicleExampleMap.umap",
-				"D:/RaceGamePrototype/RaceGamePrototype/RaceGamePrototype/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/D/8J/MY9YDV1PVL4QSL455Y68YS.uasset"
+				"D:/RaceGamePrototype/RaceGamePrototype/RaceGamePrototype/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/D/8J/MY9YDV1PVL4QSL455Y68YS.uasset",
+				"D:/RaceGamePrototype/RaceGamePrototype/RaceGamePrototype/Content/VehicleTemplate/Blueprints/SportsCar/SportsCar_WheelsFront.uasset",
+				"D:/RaceGamePrototype/RaceGamePrototype/RaceGamePrototype/Content/VehicleTemplate/Blueprints/VehicleAdvPawn.uasset",
+				"D:/RaceGamePrototype/RaceGamePrototype/RaceGamePrototype/Content/RaceGame/CameraShakes/BP_CSFastVehicle.uasset",
+				"D:/RaceGamePrototype/RaceGamePrototype/RaceGamePrototype/Content/VehicleTemplate/Blueprints/SportsCar/SportsCar_Pawn.uasset",
+				"D:/RaceGamePrototype/RaceGamePrototype/RaceGamePrototype/Content/VehicleTemplate/Blueprints/SportsCar/SportsCar_WheelsRear.uasset",
+				"D:/RaceGamePrototype/RaceGamePrototype/RaceGamePrototype/Content/VehicleTemplate/Blueprints/VehicleUI.uasset"
 			]
 		}
 	]
