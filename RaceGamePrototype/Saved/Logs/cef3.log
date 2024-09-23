@@ -1,1 +1,2 @@
-[0825/202514.400:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0923/214115.813:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0923/220458.836:ERROR:command_buffer_proxy_impl.cc(121)] ContextResult::kTransientFailure: Failed to send GpuChannelMsg_CreateCommandBuffer.
